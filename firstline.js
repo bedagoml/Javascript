@@ -12,3 +12,6 @@ console.log('this is fun')
 // writing functions in Javascript
 // usage of getElementById('id')
 getElementById('id')
+
+// usage of getElementsByClassName('className')
+getElementsByClassName('className')
